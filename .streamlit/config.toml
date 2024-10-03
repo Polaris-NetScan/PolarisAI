@@ -1,0 +1,17 @@
+[server]
+
+runOnSave = true
+headless = true
+enableCORS = false
+enableXsrfProtection=false
+
+
+[browser]
+
+gatherUsageStats = false
+
+[theme]
+base="dark"
+primaryColor="#ff7c1c"
+
+
